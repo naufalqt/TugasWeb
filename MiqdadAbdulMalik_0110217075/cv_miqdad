@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>CV Miqdad</title>
+
+    </head>
+    <body>
+    <h1 align=center>CURRICULUM VITAE</h1>
+    <!--INFORMASI DATA DIRI-->
+        <hr>
+        <b>DATA PRIBADI</b>
+        <hr>
+        <table style="width:60%" >
+            <!--FOTO-->
+            <img src="foto.png" align="right" width="120" height="160" alt="foto miqdad">  
+	<tr>
+        <th></th>
+        <th></th>
+        </tr>
+        <tr>
+            <td> Nama Lengkap</td>
+	    <td>: Miqdad Abdul Malik </td>
+        </tr>
+        <tr>
+            <td>Tempat Tanggal Lahir</td>
+            <td>: Depok, 17 Juni 1994 </td>  
+        </tr>
+            <td>Alamat</td>
+            <td>: JL.Cimandiri Raya No.12 Depok 2 Timur RT.01/03 Kel Baktijaya Kec  Sumajaya Depok Jawa Barat</td>
+        <tr>
+            <td>Status</td>
+            <td>: Mahasiswa</td>
+        </tr>
+            <tr>
+            <td>NO HP</td>
+            <td>: 081585032305</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>: miqdadabdul@gmail.com</td>
+        </tr>
+        </table>
+
+    <!--RIWAYAT PENDIDIKAN FORMAL-->  
+            <hr>
+            <b>PENDIDIKAN FORMAL</b>
+            <hr>
+                <table style="width:60%">
+            <tr>
+            <th></th>
+            <th></th>
+            </tr>
+            </tr>
+            <tr>
+                <td>2017-Sekarang</td>
+                <td>: S1 STT Nurul Fikri </td>
+            </tr>
+            <tr>
+                <td>2012-2015</td>
+                <td>: S1 STT Telkom Bandung </td>
+            </tr>
+            </tr>
+            <tr>
+                <td>2009-2012</td>
+                <td>: SMK Nasional Depok </td>
+            </tr>
+            <tr>
+                <td>2006-2009</td>
+                <td>: SMPIT Nururrahman </td>  
+            </tr>
+                <td>2000-2006</td>
+                <td>: SDIT Al-Qalam</td>
+            <tr>
+            </table>
+
+    <!--KEAHLIAN YANG DIMILIKI-->                  
+                            <hr>
+                            <b>KEAHLIAN</b><hr>
+                        Mengoperasikan Komputer : Microsoft Office<br>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
