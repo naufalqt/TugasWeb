@@ -6,10 +6,12 @@ Baca **dokumentasi** berikut sebelum memulai. :wink:
 
 **Daftar Isi:**
 - [Persiapan Pemrograman Web](#)
-  - [OS berbasis Linux](#)
-    -
-  - [wOS berbasis Arch/Manjaro](#)
-    - [Installation](#)
+  - [OS GNU/Linux](#)
+    - [Debian/Ubuntu/Mint](#)
+      - [Instalasi](#)
+    - [Arch/Manjaro](#)
+      - [Instalasi](#)
+      
   - [OS Windows](#)
 
 ====================================================================================================================
