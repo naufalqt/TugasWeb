@@ -15,14 +15,17 @@ Baca **dokumentasi** berikut sebelum memulai. :wink:
   - [OS Windows](#)
 
 ====================================================================================================================
-# Persiapan 
+# Persiapan Pemrograman Web
 
 Yang anda butuhkan adalah
-- Text Editor
-  - Gedit
-  - Geany
-  - Sublime Text
-  -
+- Text Editor/IDE
+
+  Software | Deskripsi
+------------ | -------------
+Gedit | Text editor powerful di GNU/Linux
+Geany | IDE multibahasa super ringan untuk GNU/Linux dan Windows
+Sublime Text | Text editor populer di Windows dan GNU/Linux
+
 - Web Server
   - 
 
