@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<HTML>
+	<head>
+		<title>my cv</title>
+	</head>
+	
+	<body>
+		<h1>CV</h1>
+		
+			<img src=image/cv.jpg  width=300px height=400px alt= my_ganteng_photo /> 
+		<br>
+			<h2> biodoata </h2>
+			<ul> 
+				<li> Nama						: M sarifudin </li>
+				<li> tempat tanggal lahir		: kebumen, 21 April 1998 </li>
+				<li> Jenis Kelamin 				: Laki-Laki</li>
+				<li> Kewarganegaraan			: Indonesia </li>
+				<li> Staus						: Belum Kawin </li>
+				<li> Alamat						: Kampung pulo mangga , No 62,Rt 02/03,kelurahan grogol,
+												  kecamatan limo, kota depok</li>
+				<li> Telephone 					: 0822-5901-7841</li>
+				<li> Email						: sarifudinn99@gmail.com</li>
+			</ul>
+			<h2> Pendidikan</h2>
+			<dl>
+				<dt>Sekolah Dasar</dt>		
+				<dd>2004 sampai 2010 		: SD Negeri 2 Waluyo, Buluspesantren ,Kebumen</dd>
+				<dt>Sekolah Menengah Pertama</dt>
+				<dd>2010 sampai 2012		: SMP Negeri 2 Kebumen 
+				<br>2012 sampai 2013		: MTs Diponegoro , Tambakprogaten , Klirong ,Kebumen</dd>
+				<dt>Sekolah Menengah Akhir</dt>
+				<dd>2013 sampai 2015		: SMA Negeri 1 Buluspesantren , Kebumen
+				<br>2015 sampai 2016		: SMA Negeri 9 Depok , Cinere , Kota Depok</dd>
+			<h2>Pengalaman Organisasi</h2> 
+				<dd>Anggota Osis SMA Negeri 1 Buluspesantren Periode 2012 sampai 2013</dd> 
+			<h2>Kemampuan</h2>
+					<dd>Komputerisasi : Microsoft Office ( word, exel dan power point)</dd>
+	</body>
+	</HTML>
+	
