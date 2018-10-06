@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Imam  Mustofa</h1>
+
+<h1 align=center>CURRICULUM VITAE</h1>
+    <!--INFORMASI DATA DIRI-->
+        <hr>
+        <b>DATA PRIBADI</b>
+        <hr>
+        <table style="width:60%" >
+            <!--FOTO-->
+            <img src="foto.png" align="right" width="120" height="160" alt="foto Imam">  
+	<tr>
+        <th></th>
+        <th></th>
