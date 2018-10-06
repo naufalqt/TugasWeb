@@ -7,9 +7,9 @@ Baca **dokumentasi** berikut sebelum memulai. :wink:
 **Daftar Isi:**
 - [Persiapan Pemrograman Web](#)
   - [OS GNU/Linux](#)
-    - [Debian/Ubuntu/Mint](#)
+    - [Debian, Ubuntu, Mint](#)
       - [Instalasi](#)
-    - [Arch/Manjaro](#)
+    - [Arch, Manjaro](#)
       - [Instalasi](#)
       
   - [OS Windows](#)
@@ -19,6 +19,11 @@ Baca **dokumentasi** berikut sebelum memulai. :wink:
 
 Yang anda butuhkan adalah
 - Text Editor/IDE
+- Apache Web Server
+- Database (SQL) Server
+- FTP Server
+
+[XAMPP](https://www.apachefriends.org/download.html) / [LAMPP](https://www.apachefriends.org/download.html) telah menyediakan paket lengkap untuk kebutuhan server tersebut
 
 # Happy Coding! :smiley: :thumbsup:
 
