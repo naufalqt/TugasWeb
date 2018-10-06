@@ -14,7 +14,7 @@ Baca **dokumentasi** berikut sebelum memulai. :wink:
       
   - [OS Windows](#)
 
-====================================================================================================================
+====================================================================
 # Persiapan Pemrograman Web
 
 Yang anda butuhkan adalah
