@@ -1,4 +1,4 @@
-Repositori ini berisi file kodingan untuk tugas mata kuliah **Pemrograman Web** TI & SI semester 3 STTNF.
+Repositori ini berisi file kodingan untuk tugas mata kuliah **Pemrograman Web** TI & SI Weekend semester 3 STTNF.
 
 Tiap direktori berisi file tugas masing-masing mahasiswa.
 
