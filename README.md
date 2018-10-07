@@ -15,17 +15,18 @@ Baca **dokumentasi** berikut sebelum memulai. :wink:
       - [Instalasi](#)
       
   - [OS Windows](#)
+    - [Instalasi](#)
 
 ====================================================================
 # Persiapan Pemrograman Web
 
 Yang anda butuhkan adalah
-- Text Editor/IDE
-- Apache Web Server
-- Database (SQL) Server
-- FTP Server
+- [Text Editor/IDE](https://alternativeto.net/software/vim/)
+- [Web Server](https://alternativeto.net/software/apache/)
+- [Database (SQL) Management System](https://alternativeto.net/software/postgressql/)
+- [FTP Server](https://alternativeto.net/software/proftpd/)
 
-[XAMPP](https://www.apachefriends.org/download.html) / [LAMPP](https://www.apachefriends.org/download.html) telah menyediakan paket lengkap untuk kebutuhan server tersebut
+[XAMPP](https://www.apachefriends.org/download.html) / [LAMPP](https://www.apachefriends.org/download.html) telah menyediakan paket lengkap untuk kebutuhan server web (Apache), sistem database SQL (MySQL), dan server FTP (ProFTPD)
 
 # Happy Coding! :smiley: :thumbsup:
 
