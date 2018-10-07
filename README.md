@@ -9,13 +9,16 @@ Baca **dokumentasi** berikut sebelum memulai. :wink:
 **Daftar Isi:**
 - [Persiapan Pemrograman Web](https://github.com/WeekNF17/TugasWeb/blob/master/README.md#persiapan-pemrograman-web)
   - [OS GNU/Linux](#)
-    - [Debian, Ubuntu -based](#)
+    - [Debian-Ubuntu-based](#)
       - [Instalasi](#)
-    - [Arch, Manjaro -based](#)
+      - [Menjalankan server](#)
+    - [Arch-Manjaro-based](#)
       - [Instalasi](#)
+      - [Menjalankan server](#)
       
   - [OS Windows](#)
     - [Instalasi](#)
+    - [Menjalankan server](#)
 
 ====================================================================
 # Persiapan Pemrograman Web
@@ -25,8 +28,17 @@ Yang anda butuhkan adalah:
 - [Web Server](https://alternativeto.net/software/apache/)
 - [Database (SQL) Management System](https://alternativeto.net/software/postgressql/)
 - [FTP Server](https://alternativeto.net/software/proftpd/)
+- [Web Browser](https://alternativeto.net/software/firefox/)
 
 [XAMPP](https://www.apachefriends.org/download.html) / [LAMPP](https://www.apachefriends.org/download.html) telah menyediakan paket lengkap untuk kebutuhan server web (Apache), sistem database SQL (MySQL), dan server FTP (ProFTPD)
+
+## OS GNU/Linux
+
+### Debian-Ubuntu-based
+
+#### Instalasi 
+sudo apt update
+sudo apt install gedit gedit-plugins
 
 # Happy Coding! :smiley: :thumbsup:
 
