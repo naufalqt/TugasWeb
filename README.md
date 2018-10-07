@@ -7,7 +7,7 @@ Baca **dokumentasi** berikut sebelum memulai. :wink:
 ===================================================================
 
 **Daftar Isi:**
-- [Persiapan Pemrograman Web](#)
+- [Persiapan Pemrograman Web](https://github.com/WeekNF17/TugasWeb/blob/master/README.md#persiapan-pemrograman-web)
   - [OS GNU/Linux](#)
     - [Debian, Ubuntu, Mint](#)
       - [Instalasi](#)
