@@ -20,7 +20,7 @@ Baca **dokumentasi** berikut sebelum memulai. :wink:
 ====================================================================
 # Persiapan Pemrograman Web
 
-Yang anda butuhkan adalah
+Yang anda butuhkan adalah:
 - [Text Editor/IDE](https://alternativeto.net/software/vim/)
 - [Web Server](https://alternativeto.net/software/apache/)
 - [Database (SQL) Management System](https://alternativeto.net/software/postgressql/)
