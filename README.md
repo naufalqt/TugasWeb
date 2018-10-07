@@ -9,9 +9,9 @@ Baca **dokumentasi** berikut sebelum memulai. :wink:
 **Daftar Isi:**
 - [Persiapan Pemrograman Web](https://github.com/WeekNF17/TugasWeb/blob/master/README.md#persiapan-pemrograman-web)
   - [OS GNU/Linux](#)
-    - [Debian, Ubuntu, Mint](#)
+    - [Debian, Ubuntu, dan turunan nya](#)
       - [Instalasi](#)
-    - [Arch, Manjaro](#)
+    - [Arch, Manjaro, dan turunan nya](#)
       - [Instalasi](#)
       
   - [OS Windows](#)
